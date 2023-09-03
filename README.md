@@ -9,3 +9,17 @@ accountant can provide the salary. There are 2 different users i.e., Accountant 
 Accountant is responsible for paying salary to the user and the accountant may have
 specialization for admin status for managing employees. Employees are responsible for
 looking after their salary transaction.
+
+#### Languages Used
+##### HTML, CSS, JS, Python
+
+####  Framework Used 
+##### Django
+
+#### Dependencies and Modules used:
+##### datetime
+##### stripe
+##### django-crispy-forms
+
+#### Database Used
+##### SQLite3

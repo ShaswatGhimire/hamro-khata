@@ -13,13 +13,16 @@ looking after their salary transaction.
 #### Languages Used
 ##### HTML, CSS, JS, Python
 
+
 ####  Framework Used 
 ##### Django
+
 
 #### Dependencies and Modules used:
 ##### datetime
 ##### stripe
 ##### django-crispy-forms
+
 
 #### Database Used
 ##### SQLite3

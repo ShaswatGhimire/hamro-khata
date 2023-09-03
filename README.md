@@ -10,19 +10,10 @@ Accountant is responsible for paying salary to the user and the accountant may h
 specialization for admin status for managing employees. Employees are responsible for
 looking after their salary transaction.
 
-#### Languages Used
-##### HTML, CSS, JS, Python
+#### Languages Used -> HTML, CSS, JS, Python
 
+####  Framework Used -> Django
 
-####  Framework Used 
-##### Django
+#### Dependencies and Modules used -> datetime, stripe, django-crispy-forms
 
-
-#### Dependencies and Modules used:
-##### datetime
-##### stripe
-##### django-crispy-forms
-
-
-#### Database Used
-##### SQLite3
+#### Database Used -> SQLite3
